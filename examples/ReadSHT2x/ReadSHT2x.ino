@@ -4,8 +4,8 @@
  *  relative humidity to the PC's serial port
  *
  *  Tested with:
- *    - SHT21-Breakout Humidity sensor from Modern Device
- *    - SHT2x-Breakout Humidity sensor from MisensO Electronics
+ *    - SHT21-Breakout Humidity sensor from elechouse.com
+
  ***************************************************************/
 
 #include <Wire.h>

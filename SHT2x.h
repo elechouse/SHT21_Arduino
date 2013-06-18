@@ -2,14 +2,10 @@
   SHT2x - A Humidity Library for Arduino.
 
   Supported Sensor modules:
-    SHT21-Breakout Module - http://www.moderndevice.com/products/sht21-humidity-sensor
-	SHT2x-Breakout Module - http://www.misenso.com/products/001
+    SHT21-Breakout Module - http://www.elechouse.com/elechouse/index.php?main_page=product_info&cPath=152_158&products_id=2235
 	
   Created by Christopher Ladden at Modern Device on December 2009.
-  
-  Modified by www.misenso.com on October 2011:
-	- code optimisation
-	- compatibility with Arduino 1.0
+  Modified by Paul Badger March 2010
 
   This library is free software; you can redistribute it and/or
   modify it under the terms of the GNU Lesser General Public
